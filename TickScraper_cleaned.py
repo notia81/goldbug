@@ -20,7 +20,7 @@ import numpy as np
 
 #Parameters 
 Gateway=0
-Live =1
+Live =0
 symbol = 'GC'
 dateTo =  datetime.now().strftime("%Y%m%d %H:%M:%S")
 dateFrom = '20171020 9:30:00'
